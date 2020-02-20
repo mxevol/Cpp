@@ -1,0 +1,19 @@
+2020-02-07 03:36:10,653 [FATAL] This is fatal message
+2020-02-07 03:36:10,654 [ALERT] This is alert  message
+2020-02-07 03:36:10,654 [CRIT] This is a crit message
+2020-02-07 03:36:10,654 [WARN] This is a warn message
+2020-02-07 03:36:10,654 [ERROR] This is a error message
+2020-02-07 03:36:10,654 [NOTICE] This is a notice message
+2020-02-07 03:36:10,654 [INFO] This is a info message
+2020-02-07 03:36:10,654 [DEBUG] This is a debug message
+2020-02-07 03:36:10,654 [FATAL] This is a emerg message
+2020-02-07 03:36:10,654 [FATAL] This is fatal message
+2020-02-07 03:36:10,654 [ALERT] This is alert  message
+2020-02-07 03:36:10,654 [CRIT] This is a crit message
+2020-02-07 03:36:10,654 [WARN] This is a warn message
+2020-02-07 03:36:10,654 [ERROR] This is a error message
+2020-02-07 03:36:10,654 [NOTICE] This is a notice message
+2020-02-07 03:36:10,654 [INFO] This is a info message
+2020-02-07 03:36:10,654 [DEBUG] This is a debug message
+2020-02-07 03:36:10,654 [FATAL] This is a emerg message
+2020-02-07 03:36:10,654 [FATAL] This is fatal message
